@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chandanaannadi</h1>
-<h4>I am from Hyderabad, India</h4>
+<h4>Biography details: I am from Hyderabad, India</h4>
 𝐼 𝒶𝓂 𝒶 𝓉𝓇𝓊𝑒 Epicure and Melophile 𝒶𝓉 𝒽𝑒𝒶𝓇𝓉, 𝓈𝑜𝓂𝑒𝑜𝓃𝑒 𝓌𝒽𝑜 𝒻𝒾𝓃𝒹𝓈 𝑒𝓆𝓊𝒶𝓁 𝓅𝓁𝑒𝒶𝓈𝓊𝓇𝑒 𝒾𝓃 𝓉𝒽𝑒 𝓈𝑒𝓃𝓈𝑜𝓇𝓎 𝒹𝑒𝓁𝒾𝑔𝒽𝓉𝓈 𝑜𝒻 𝒻𝒾𝓃𝑒 𝒻𝑜𝑜𝒹 𝒶𝓃𝒹 𝒹𝓇𝒾𝓃𝓀 𝒶𝓈 𝓌𝑒𝓁𝓁 𝒶𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓁-𝓈𝓉𝒾𝓇𝓇𝒾𝓃𝑔 𝓈𝑜𝓊𝓃𝒹𝓈 𝑜𝒻 𝓂𝓊𝓈𝒾𝒸.
 <h3 align="left">Connect with me: chandanaannadi@gmail.com</h3>
 <h4>Fun fact: Sloths can hold their breath longer than dolphins.</h4>
